@@ -1,2 +1,4 @@
 # socially-me
-social media view of myself
+social view of katvis
+
+https://radiorebelion.github.io/socially-me/
